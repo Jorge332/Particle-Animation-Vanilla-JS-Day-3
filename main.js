@@ -54,7 +54,6 @@ function init() {
         particlesArray.push(new Particle(x, y, _directionx, _directiony, size, color));
     }
 
-    console.log(particlesArray.length)
 }
 
 
